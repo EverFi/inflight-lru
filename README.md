@@ -7,7 +7,7 @@ It maintains the same API structure as the old inflight so it can be set as a re
 ```
 {
   "resolutions": {
-    "inflight": "npm:@everfi/inflight@^1.0.0",
+    "inflight": "npm:inflight@^1.0.0",
   }
 }
 ```

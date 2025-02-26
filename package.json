@@ -1,5 +1,5 @@
 {
-  "name": "@everfi/inflight-lru",
+  "name": "inflight-lru",
   "version": "1.0.0",
   "description": "Replace inflight package with a wrapper aound lru-cache",
   "main": "inflight.js",
@@ -19,8 +19,5 @@
     "url": "https://github.com/EverFi/inflight-lru/issues"
   },
   "license": "ISC",
-  "packageManager": "yarn@4.6.0",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "packageManager": "yarn@4.6.0"
 }
